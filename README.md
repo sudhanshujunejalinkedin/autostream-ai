@@ -104,14 +104,6 @@ Aria: You've already shared your email with me. Now, I just need to know which p
 You: YouTube
 Aria: You're all set, sudhanshu!
 Our team will reach out to you at sudhanshujuneja54@gmail.com shortly to get your Pro plan activated. Welcome to AutoStream
-...
-
-==================================================
-LEAD CAPTURED SUCCESSFULLY
-    Name     : sudhanshu
-    Email    : sudhanshujuneja54@gmail.com
-    Platform : YouTube
-==================================================
 
 ```
 
