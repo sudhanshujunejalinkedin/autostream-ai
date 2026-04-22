@@ -129,7 +129,7 @@ Our team will reach out to you at sudhanshujuneja54@gmail.com shortly to get you
 
 ---
 
-## 📱 WhatsApp Integration (Concept)
+## WhatsApp Integration (Concept)
 
 To deploy this on WhatsApp:
 
@@ -142,6 +142,7 @@ To deploy this on WhatsApp:
 ---
 
 ## Demo Video
+![Demo video](./screenshots/demo.mp4)
 
 ---
 
