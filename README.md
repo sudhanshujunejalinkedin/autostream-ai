@@ -139,10 +139,6 @@ To deploy this on WhatsApp:
 4. Pass message to agent
 5. Return AI response back to user
 
----
-
-## Demo Video
-![Demo video](./screenshots/demo.mp4)
 
 ---
 
