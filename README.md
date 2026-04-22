@@ -57,7 +57,7 @@ autostream-ai/
 ### 1. Clone the repo
 
 ```
-git clone [](https://github.com/sudhanshujunejalinkedin/autostream-ai)
+git clone https://github.com/sudhanshujunejalinkedin/autostream-ai
 cd autostream-ai
 ```
 
